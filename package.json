@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/analuna01/Project2.git"
+    "url": "git+https://github.com/AldoCarrillo/HW17-Project2.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/analuna01/Project2/issues"
+    "url": "https://github.com/AldoCarrillo/HW17-Project2/issues"
   },
-  "homepage": "https://github.com/analuna01/Project2#readme",
+  "homepage": "https://github.com/AldoCarrillo/HW17-Project2#readme",
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.3",
     "dotenv": "^8.2.0",
